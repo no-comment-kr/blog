@@ -1,0 +1,159 @@
+body {
+    width: 1000px;
+    margin: auto;
+    width: 50%;
+    color: #02343F;
+    margin-bottom: 200px;
+
+}
+
+header {
+    padding: 5px;
+    background-color: #02343F;
+    color: #F0EDCC;
+    border-radius: 30px;
+
+}
+
+main {
+    background-color: #F0EDCC;
+    padding: 5px;
+    border: dashed #C4DDFF;
+    border-width: thick;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.gray-text {
+    color: gray;
+}
+
+.cancle {
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+}
+
+#border-radius {
+    background-color: #ACC7B4;
+    color: #331B3F;
+    margin: auto;
+    width: 500px;
+    padding: 1px;
+    border: #C4DDFF dashed 3px;
+    border-radius: 10%;
+}
+
+#border-radius h3 {
+    text-align: center;
+}
+
+#border-radius div {
+    padding: 10px;
+}
+
+#one {
+    padding-left: 3px;
+    border-left: black solid thick;
+    background-color: aliceblue;
+}
+
+#padding-one {
+    background-color: #ACC7B4;
+    padding: 1px;
+    border: solid #C4DDFF 3px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.yellow {
+    color: yellow;
+    font-weight: bold;
+}
+
+.h4class {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: #331B3F solid 1px;
+}
+
+.spanclass {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: #331B3F solid 1px;
+}
+
+.h4class2 {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline;
+    border: #331B3F solid 2px;
+}
+
+.spanclass2 {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    border: #331B3F solid 2px;
+}
+
+#sapninlorem {
+    background-color: aqua;
+    opacity: 70%;
+    font-weight: bold;
+    padding: 30px;
+}
+
+#sapninlorem2 {
+    background-color: aqua;
+    opacity: 70%;
+    font-weight: bold;
+    padding: 30px;
+    display: inline-block;
+}
+
+#css-units-box {
+    padding: 0;
+    width: 500px;
+    margin:auto;
+}
+
+#css-units-box-one {
+    border: black solid thin;
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+    margin-right: 5px;
+}
+
+
+#css-units-box-two {
+    border: black solid thin;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+#css-units-box-one p, #css-units-box-two p {
+    font-weight: bold;
+    text-align: center;
+}
+
+#css-units-box-one li, #css-units-box-two li {
+margin-left: 30px;
+
+}
