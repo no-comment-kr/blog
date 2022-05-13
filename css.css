@@ -29,12 +29,4 @@ header {
     font-size: 1em;
 }
 
-footer div {
-    width: 95%;
-    margin: auto;
-}
 
-footer div img {
-    width: 50%;
-    float: left;
-}
