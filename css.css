@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+}
+
+.section {
+    margin: auto;
+    width: 70%;
+    border: thin black solid;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.contents-info {
+    text-align: right;
+    font-size: 0.7em;
+    color: rgb(72, 71, 71);
+}
+
+.contents {
+    margin: auto;
+    width: 80%;
+    text-align: left;
+    font-size: 1em;
+}
+
+footer div {
+    width: 70%;
+    margin: auto;
+}
+
+footer div img {
+    width: 50%;
+    float: left;
+}
